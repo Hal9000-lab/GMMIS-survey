@@ -13,10 +13,7 @@
 | EMedSAM | [An efficient segment anything model for the segmentation of medical images](https://www.nature.com/articles/s41598-024-70288-8)| Adapters | --- |
 | SAM-Med2D | [SAM-Med2D](https://arxiv.org/abs/2308.16184)| Adapters | [Code](https://github.com/OpenGVLab/SAM-Med2D)|
 | Med-SA | [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation]( https://arxiv.org/abs/2304.12620)| Adapters | [Code](https://github.com/SuperMedIntel/Medical-SAM-Adapter)|
-
-
-
-| FLAP-SAM | [A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-77610-6_21)| LoRA | [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)|
+| FLAP-SAM | [A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-77610-6_21)| LoRA | [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)| 
 | TP Mamba | [Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_61)| LoRA | [Code](https://github.com/xmed-lab/TP-Mamba)|
 | Cheap Lunch SAM | [Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars](https://arxiv.org/abs/2308.14133)| LoRA | --- |
 | SAMed | [Customized Segment Anything Model for Medical Image Segmentation](https://arxiv.org/abs/2304.13785)| LoRA | [Code](https://github.com/hitachinsk/SAMed)|
@@ -30,6 +27,7 @@
 | SFR SAM | [Stitching, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation](https://arxiv.org/abs/2403.11229)| Semi-supervised learning framework based on SAM | [Code](https://github.com/ShumengLI/SFR)|
 | MedLSAM | [MedLSAM: Localize and Segment Anything Model for 3D CT Images](https://arxiv.org/abs/2306.14752)| Integration od SAM with a foundation model for localization (MedLAM) | [Code](https://github.com/openmedlab/MedLSAM)|
 | SAMMed | [SAMMed: A medical image annotation framework based on large vision model](https://arxiv.org/abs/2307.05617)| Framework to improve SAM annotations | --- |
+
 ## List of studies on SAM leveraging F_2 fusion
 | Model | Publication | Additional training | Code |
 |-------|-------------|----------------|------|
@@ -50,7 +48,6 @@
 ## List of studies on SAM2 leveraging F_3 fusion
 | Model | Publication | Additional training | Code |
 |-------|-------------|----------------|------|
-
 | --- | [Interactive 3D Medical Image Segmentation with SAM 2](https://arxiv.org/abs/2408.02635)| --- | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
 | ---  | [Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging](https://arxiv.org/abs/2408.06170)| --- | --- |
 | ---  | [Segment anything model 2: an application to 2D and 3D medical images](https://arxiv.org/abs/2408.00756)| --- | [Code](https://github.com/mazurowski-lab/segment-anything2-medical-evaluation)|
@@ -60,9 +57,6 @@
 | BioSAM 2 | [Biomedical SAM 2: Segment Anything in Biomedical Images and Videos](https://arxiv.org/abs/2408.03286)| Fine-tuning | [Code](https://github.com/ZhilingYan/Biomedical-SAM-2)|
 | --- | [Segment Anything in Medical Images and Videos: Benchmark and Deployment](https://arxiv.org/abs/2408.03322)| Transfer learning | [Code](https://github.com/bowang-lab/MedSAM)|
 | Medical SAM 2| [Medical SAM 2: Segment medical images as video via Segment Anything Model 2](https://arxiv.org/abs/2408.00874)| --- | [Code](https://supermedintel.github.io/Medical-SAM2/)|
-
-
-
 
 ## Fusion level F_4 - Others models trained on images
 | Model | Publication | Code |
@@ -136,6 +130,7 @@ If you use this work, please cite:
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
 ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
 
 
 
