@@ -102,10 +102,11 @@
 | SegVol | [SegVol: Universal and Interactive Volumetric Medical Image Segmentation](https://arxiv.org/abs/2311.13385)| [Code]( https://github.com/BAAI-DCAI/SegVol)|
 | CDPDNet | [CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation](https://arxiv.org/abs/2505.18958)| [Code]( https://github.com/wujiong-hub/CDPDNet)|
 
+
 ## Fusion level F_0 - Models trained on both text and images
 | Model | Publication | Code |
 |-------|-------------|------|
-| OpenVocabCT| [Towards Universal Text-driven CT Image Segmentation]( https://arxiv.org/abs/2503.06030)| [Code]( https://github.com/ricklisz/OpenVocabCT
+| OpenVocabCT| [Towards Universal Text-driven CT Image Segmentation](https://arxiv.org/abs/2503.06030)| [Code](https://github.com/ricklisz/OpenVocabCT)|
 | SAT | [One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts](https://arxiv.org/abs/2312.17183)| [Code](https://github.com/zhaoziheng/SAT)|
 | Merlin | [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512)| [Code](https://github.com/StanfordMIMI/Merlin)|
 | CLIP-Driven Universal Model | [CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://arxiv.org/abs/2301.00785)| [Code](https://github.com/ljwztc/CLIP-Driven-Universal-Model)|
@@ -128,6 +129,9 @@ If you use this work, please cite:
 
 ## License
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
 
 ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
